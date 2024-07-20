@@ -33,7 +33,7 @@ class Library:
 
 # Create a library object by Library class.
 library = Library()
-library.add_book("Harry Potter", "Magic")
+library.add_book("Harry Potter", "Fiction")
 
 # Show the initial number of books.
 print("Initial number of books:", library.get_no_of_books())
